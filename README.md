@@ -27,7 +27,7 @@
     <meta property="og:title" content="Home">
     <meta property="og:type" content="website">
   </head>
-  <body data-home-page="Home.html" data-home-page-title="Home" class="u-body u-overlap u-overlap-contrast u-xl-mode"><header class="u-clearfix u-header u-sticky u-header" id="sec-ae7a"><div class="u-clearfix u-sheet u-sheet-1">
+  <body class="u-body u-overlap u-overlap-contrast u-xl-mode"><header class="u-clearfix u-header u-sticky u-header" id="sec-ae7a"><div class="u-clearfix u-sheet u-sheet-1">
         <nav class="u-align-left u-menu u-menu-dropdown u-nav-spacing-25 u-offcanvas u-menu-1" data-responsive-from="XL">
           <div class="menu-collapse" style="font-size: 1.25rem;">
             <a class="u-button-style u-nav-link u-text-black" href="#" style="padding: 4px 0px; font-size: calc(1em + 8px);">
@@ -442,5 +442,5 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
         <span>Website Builder Software</span>
       </a>. 
     </section>
-   </body>
+  </body>
 </html>
